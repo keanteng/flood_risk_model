@@ -6,7 +6,7 @@
 
 1. Ordinary Least Square (OLS)
     ```latex
-    Y = b_0 + b1X + e
+    Y = b_0 + b_1X + e
     ``````
 2. Explanation For Variables
     - Y is the flood risk, it can be in the form of risk score or a binary outcome if using logistic regression
