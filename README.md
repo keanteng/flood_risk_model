@@ -1,6 +1,8 @@
 # Flood Risk Regression Model
 
 ### 0. Model Used (Proposed)
+> Landing page markdown not working, see repository markdown page!
+
 1. Ordinary Least Square (OLS)
     - $$ Y = \beta_0 + \beta_1X + \epsilon $$
 2. Explanation For Variables
