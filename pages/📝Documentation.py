@@ -7,7 +7,7 @@ st.set_page_config(layout="wide")
 st.sidebar.title("Resources:")
 st.sidebar.info(
     """
-    - GitHub repository: [streamlit_flood](https://github.com/keanteng/flood_risk_model)
+    - GitHub repository: [Flood Risk Model](https://github.com/keanteng/flood_risk_model)
     - Data sources: [Flood Data](https://www.water.gov.my/)
     """
 )
