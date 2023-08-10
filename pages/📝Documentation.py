@@ -7,7 +7,7 @@ st.set_page_config(layout="wide")
 st.sidebar.title("Resources:")
 st.sidebar.info(
     """
-    - GitHub repository: [streamlit_flood](https://github.com/keanteng/flood_risk_model)
+    - GitHub repository: [Flood Risk Model](https://github.com/keanteng/flood_risk_model)
     - Data sources: [Flood Data](https://www.water.gov.my/)
     """
 )
@@ -82,7 +82,7 @@ with col2:
     image = Image.open('images/MLA Recall Comparison.png')
     st.image(image, caption='Recall', use_column_width=True)
     
-    image = Image.open('images/MLA_AUC_comparison.png')
+    image = Image.open('images/MLA_AUC_Comparison.png')
     st.image(image, caption='Area Under Curve', use_column_width=True)
     
 image = Image.open('images/ROC Curve comparison.png')
