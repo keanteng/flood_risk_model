@@ -29,6 +29,6 @@ To create a regression model for flood risk, we require both predictor, $x$ and 
 ### 2. Objective
 - To determine the best model describing flood risk in Malaysia
 
-> For further documentation, see xxx
+> For further documentation, see 
 
 Internship © 2023
