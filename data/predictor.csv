@@ -29,9 +29,9 @@ distance,city,state,zip,flood_risk
 244.97442964239104,Klang,Selangor,42450,1
 64.33249225259236,Johor Bahru,Johor,81100,1
 376.8002186622493,Klang,Selangor,42100,1
-2389.4607745198678,Tasek Gelugor,Penang,13300,0
+2389.460774519868,Tasek Gelugor,Penang,13300,0
 348.43863854367504,Kuala Lumpur,Kuala Lumpur,51000,1
-197.02381751701375,Kuching,Sarawak,93350,1
+197.02381751701373,Kuching,Sarawak,93350,1
 121.51236776304762,Kuala Lumpur,Kuala Lumpur,53300,1
 2002.7897354995305,Johor Bahru,Johor,81200,0
 366.8102816574833,Kuala Lumpur,Kuala Lumpur,50470,1
@@ -100,7 +100,7 @@ distance,city,state,zip,flood_risk
 838.4900193663312,Johor Bahru,Johor,81200,0
 1154.6771261715205,Subang Jaya,Selangor,47620,0
 1149.1028336767222,Johor Bahru,Johor,81200,0
-1837.4516479754636,Subang Jaya,Selangor,47600,0
+1837.451647975464,Subang Jaya,Selangor,47600,0
 143.22997580607324,Kuala Lumpur,Kuala Lumpur,53300,1
 2237.9151215813777,Ipoh,Perak,30250,0
 1990.01905091136,Johor Bahru,Johor,81100,0
@@ -262,7 +262,7 @@ distance,city,state,zip,flood_risk
 2271.8430498261982,Ipoh,Perak,31650,0
 1070.9763953162364,Petaling Jaya,Selangor,46300,0
 929.5081432166982,Kuala Lumpur,Kuala Lumpur,56000,0
-1969.9700684465051,Kuala Lumpur,Kuala Lumpur,58200,0
+1969.970068446505,Kuala Lumpur,Kuala Lumpur,58200,0
 283.32596680307745,Kuala Lumpur,Kuala Lumpur,56000,1
 2596.3187364592263,Ipoh,Perak,31400,0
 1324.4533975337706,Ipoh,Perak,30100,0
@@ -586,7 +586,7 @@ distance,city,state,zip,flood_risk
 1503.1521261001812,Ipoh,Perak,30100,0
 966.4560896268872,Johor Bahru,Johor,80250,0
 742.3117549987995,Johor Bahru,Johor,81100,0
-3054.6606822862877,Subang Jaya,Selangor,47600,0
+3054.660682286288,Subang Jaya,Selangor,47600,0
 970.6781378436484,Kuala Lumpur,Kuala Lumpur,52000,0
 1406.9559766331392,Klang,Selangor,42450,0
 587.8381838589501,Alor Setar,Kedah,5100,0
@@ -713,7 +713,7 @@ distance,city,state,zip,flood_risk
 914.1726417005264,Klang,Selangor,41200,0
 0.0,Kuching,Sarawak,93400,1
 1754.741418147309,Johor Bahru,Johor,81100,0
-3054.6606822862877,Petaling Jaya,Selangor,47301,0
+3054.660682286288,Petaling Jaya,Selangor,47301,0
 527.0644286823451,Kuala Lumpur,Kuala Lumpur,55100,0
 976.1671826967214,Klang,Selangor,41100,0
 1210.145731605589,Kuala Lumpur,Kuala Lumpur,53000,0
@@ -781,7 +781,7 @@ distance,city,state,zip,flood_risk
 2609.2786942210605,Kuantan,Pahang,26080,0
 419.1470016045229,Kuala Lumpur,Kuala Lumpur,50400,1
 1069.0213303858857,Kuala Lumpur,Kuala Lumpur,55100,0
-244.33750556755197,Kota Kinabalu,Sabah,88450,1
+244.337505567552,Kota Kinabalu,Sabah,88450,1
 1691.515387724192,Bayan Lepas,Penang,11900,0
 1418.7327066586756,Ipoh,Perak,31650,0
 879.2535210449965,Petaling Jaya,Selangor,46300,0
@@ -877,7 +877,7 @@ distance,city,state,zip,flood_risk
 10378.619808062098,Segamat,Johor,85000,0
 2224.6578547827994,Johor Bahru,Johor,81200,0
 238.31361002581264,Johor Bahru,Johor,80150,1
-206.79555221613637,Seremban,Negeri Sembilan,70000,1
+206.7955522161364,Seremban,Negeri Sembilan,70000,1
 1100.6859536234722,Kuala Lumpur,Kuala Lumpur,53300,0
 1051.72159291027,Kuala Lumpur,Kuala Lumpur,56000,0
 245.7478057775737,Kuala Lumpur,Kuala Lumpur,50100,1
@@ -902,7 +902,7 @@ distance,city,state,zip,flood_risk
 909.0729327942132,Petaling Jaya,Selangor,56050,0
 826.3519249610115,Kuala Lumpur,Kuala Lumpur,50470,0
 146.0023168099149,Petaling Jaya,Selangor,46200,1
-3054.6606822862877,Petaling Jaya,Selangor,47301,0
+3054.660682286288,Petaling Jaya,Selangor,47301,0
 507.9231946362368,Ampang,Selangor,68000,0
 184.2018324644136,Petaling Jaya,Selangor,46200,1
 1587.380451530987,Kuala Lumpur,Kuala Lumpur,56100,0
@@ -932,7 +932,7 @@ distance,city,state,zip,flood_risk
 106.54828418089885,Sibu,Sarawak,96000,1
 721.7021309674363,Petaling Jaya,Selangor,46150,0
 1286.1941835258026,Kuala Lumpur,Kuala Lumpur,55200,0
-196.00902585426036,Kuala Lumpur,Kuala Lumpur,51200,1
+196.0090258542604,Kuala Lumpur,Kuala Lumpur,51200,1
 752.8053021224262,Johor Bahru,Johor,81100,0
 1109.6640613421926,Johor Bahru,Johor,81200,0
 419.7053985208255,Kuala Lumpur,Kuala Lumpur,54100,1
@@ -1033,7 +1033,7 @@ distance,city,state,zip,flood_risk
 1184.6564082666098,Ipoh,Perak,30450,0
 500.25921012097416,Klang,Selangor,41050,0
 243.1252308721263,Petaling Jaya,Selangor,47301,1
-196.00902585426036,Kuala Lumpur,Kuala Lumpur,51200,1
+196.0090258542604,Kuala Lumpur,Kuala Lumpur,51200,1
 1562.5215512549812,Kota Tinggi,Johor,81900,0
 2593.708315186581,Petaling Jaya,Selangor,47610,0
 0.0,Kuala Lumpur,Kuala Lumpur,50200,1
@@ -1054,7 +1054,7 @@ distance,city,state,zip,flood_risk
 429.51784535977714,Kuala Lumpur,Kuala Lumpur,50000,1
 976.1671826967214,Klang,Selangor,41100,0
 1270.5416673780117,Kuala Lumpur,Kuala Lumpur,52100,0
-3054.6606822862877,Petaling Jaya,Selangor,47301,0
+3054.660682286288,Petaling Jaya,Selangor,47301,0
 366.8102816574833,Kuala Lumpur,Kuala Lumpur,50470,1
 1389.4445400906404,Johor Bahru,Johor,81200,0
 1664.7173533597374,Puchong,Selangor,47100,0
@@ -1096,7 +1096,7 @@ distance,city,state,zip,flood_risk
 371.1080271650324,Kuching,Sarawak,93100,1
 2215.437999360196,Kajang,Selangor,43000,0
 0.0,Kuching,Sarawak,93150,1
-1926.2860475697612,Ipoh,Perak,30300,0
+1926.2860475697607,Ipoh,Perak,30300,0
 22182.962824051472,Kota Tinggi,Johor,81900,0
 2786.7642297814937,Subang Jaya,Selangor,47620,0
 1485.2473853703727,Petaling Jaya,Selangor,46150,0
@@ -1191,7 +1191,7 @@ distance,city,state,zip,flood_risk
 366.8102816574833,Kuala Lumpur,Kuala Lumpur,50470,1
 2839.333308404411,Petaling Jaya,Selangor,47810,0
 1051.72159291027,Kuala Lumpur,Kuala Lumpur,56000,0
-196.00902585426036,Kuala Lumpur,Kuala Lumpur,51200,1
+196.0090258542604,Kuala Lumpur,Kuala Lumpur,51200,1
 184.1022122219544,Kuala Lumpur,Kuala Lumpur,50300,1
 0.0,Kuala Lumpur,Kuala Lumpur,50350,1
 1580.210008789113,Kuala Lumpur,Kuala Lumpur,58200,0
@@ -1328,7 +1328,7 @@ distance,city,state,zip,flood_risk
 1095.1588069081106,Penang,Penang,11200,0
 866.2852887260792,Klang,Selangor,53300,0
 1363.3107753251254,Ipoh,Perak,31400,0
-27.000016508484556,Kajang,Selangor,43000,1
+27.00001650848456,Kajang,Selangor,43000,1
 1413.4581568555786,Seremban,Negeri Sembilan,70100,0
 472.8268220665131,Klang,Selangor,41400,1
 741.9857985765088,Kuala Lumpur,Kuala Lumpur,50470,0
@@ -1369,7 +1369,7 @@ distance,city,state,zip,flood_risk
 336.8877244031253,Kuala Lumpur,Kuala Lumpur,50400,1
 1194.906233097366,Johor Bahru,Johor,81200,0
 1580.210008789113,Kuala Lumpur,Kuala Lumpur,58200,0
-2032.8173053790615,Kuala Lumpur,Kuala Lumpur,56000,0
+2032.8173053790613,Kuala Lumpur,Kuala Lumpur,56000,0
 133.68544831678645,Johor Bahru,Johor,81200,1
 335.78908918052474,Kuala Lumpur,Kuala Lumpur,54200,1
 2146.620913428364,Kuala Lumpur,Kuala Lumpur,55200,0
@@ -1389,7 +1389,7 @@ distance,city,state,zip,flood_risk
 1294.7633385885752,Petaling Jaya,Selangor,47500,0
 1184.6564082666098,Ipoh,Perak,30450,0
 715.4084438657386,Petaling Jaya,Selangor,46000,0
-217.51148730306411,Kuala Lumpur,Kuala Lumpur,50400,1
+217.5114873030641,Kuala Lumpur,Kuala Lumpur,50400,1
 142.15736043470045,Johor Bahru,Johor,81100,1
 685.8539715736259,Klang,Selangor,53100,0
 1679.4132569542464,Kuala Lumpur,Kuala Lumpur,56100,0
@@ -1436,7 +1436,7 @@ distance,city,state,zip,flood_risk
 1933.6919880687983,Johor Bahru,Johor,81100,0
 1069.0213303858857,Kuala Lumpur,Kuala Lumpur,55100,0
 433.3894575772429,Ampang,Selangor,68000,1
-1926.2860475697612,Ipoh,Perak,30300,0
+1926.2860475697607,Ipoh,Perak,30300,0
 2888.7862271530435,Johor Bahru,Johor,80000,0
 969.3821353992486,Kuala Lumpur,Kuala Lumpur,50400,0
 1599.6033742970726,Johor Bahru,Johor,81100,0
@@ -1561,7 +1561,7 @@ distance,city,state,zip,flood_risk
 247.63336529860345,Kuala Lumpur,Kuala Lumpur,53100,1
 294.19873880157013,Kuching,Sarawak,93400,1
 1294.7633385885752,Subang Jaya,Selangor,47500,0
-1926.2860475697612,Ipoh,Perak,30300,0
+1926.2860475697607,Ipoh,Perak,30300,0
 833.0596779315887,Klang,Selangor,41200,0
 1051.72159291027,Kuala Lumpur,Kuala Lumpur,56000,0
 1363.3107753251254,Ipoh,Perak,31400,0
@@ -1644,7 +1644,7 @@ distance,city,state,zip,flood_risk
 905.1244428571264,Petaling Jaya,Selangor,46400,0
 3399.724929850972,Seremban,Negeri Sembilan,70450,0
 1067.3638007681527,Subang Jaya,Selangor,47500,0
-27.000016508484556,Kajang,Selangor,43000,1
+27.00001650848456,Kajang,Selangor,43000,1
 146.0023168099149,Petaling Jaya,Selangor,46200,1
 170.4239650204186,Petaling Jaya,Selangor,47430,1
 1642.916799961872,Johor Bahru,Johor,81100,0
@@ -1778,7 +1778,7 @@ distance,city,state,zip,flood_risk
 563.9804100254437,Seremban,Negeri Sembilan,70200,0
 1069.0213303858857,Kuala Lumpur,Kuala Lumpur,55100,0
 1101.255010050078,Ipoh,Perak,30450,0
-1969.9700684465051,Kuala Lumpur,Kuala Lumpur,58200,0
+1969.970068446505,Kuala Lumpur,Kuala Lumpur,58200,0
 722.0630500993951,Kuala Lumpur,Kuala Lumpur,55200,0
 0.0,Kuala Lumpur,Kuala Lumpur,56100,1
 1579.7570851509367,Ipoh,Perak,30010,0
@@ -1812,7 +1812,7 @@ distance,city,state,zip,flood_risk
 1069.0213303858857,Kuala Lumpur,Kuala Lumpur,55100,0
 416.7691423890475,Kuala Lumpur,Kuala Lumpur,50400,1
 562.6227983744477,Johor Bahru,Johor,80000,0
-2032.8173053790615,Kuala Lumpur,Kuala Lumpur,56000,0
+2032.8173053790613,Kuala Lumpur,Kuala Lumpur,56000,0
 1406.5646746347147,Johor Bahru,Johor,81200,0
 1598.5813467134817,Petaling Jaya,Selangor,46050,0
 864.8633991655428,Seremban,Negeri Sembilan,70100,0
@@ -1828,7 +1828,7 @@ distance,city,state,zip,flood_risk
 1784.168778604862,Kuala Lumpur,Kuala Lumpur,53300,0
 453.8492087560995,Penang,Penang,10000,1
 291.42018842564454,Klang,Selangor,42100,1
-1870.3413348064732,Ipoh,Perak,30250,0
+1870.3413348064728,Ipoh,Perak,30250,0
 576.2520801880875,Johor Bahru,Johor,80400,0
 2739.61952728339,Shah Alam,Selangor,40100,0
 561.3701533901839,Kuala Lumpur,Kuala Lumpur,55100,0
@@ -1889,7 +1889,7 @@ distance,city,state,zip,flood_risk
 536.3580033582659,Petaling Jaya,Selangor,46100,0
 3601.781467429147,Lumut,Perak,32200,0
 1416.1076374752147,Johor Bahru,Johor,81200,0
-196.00902585426036,Kuala Lumpur,Kuala Lumpur,51200,1
+196.0090258542604,Kuala Lumpur,Kuala Lumpur,51200,1
 616.1709267885323,Klang,Selangor,42000,0
 261.9632001057625,Kuala Lumpur,Kuala Lumpur,57100,1
 715.4084438657386,Petaling Jaya,Selangor,46000,0
@@ -1971,9 +1971,9 @@ distance,city,state,zip,flood_risk
 238.31361002581264,Johor Bahru,Johor,80150,1
 533.1472100479065,Butterworth,Penang,13000,0
 2215.437999360196,Kajang,Selangor,43000,0
-27.000016508484556,Kajang,Selangor,43000,1
+27.00001650848456,Kajang,Selangor,43000,1
 337.86067330454455,Sungai Buloh,Selangor,47000,1
-196.00902585426036,Kuala Lumpur,Kuala Lumpur,51200,1
+196.0090258542604,Kuala Lumpur,Kuala Lumpur,51200,1
 699.4918771940427,Petaling Jaya,Selangor,46300,0
 170.4239650204186,Petaling Jaya,Selangor,47430,1
 1713.3774354892405,Ampang,Kuala Lumpur,57100,0
@@ -2062,7 +2062,7 @@ distance,city,state,zip,flood_risk
 516.3299206121807,Kuala Lumpur,Kuala Lumpur,50470,0
 500.25921012097416,Klang,Selangor,41000,0
 1952.8062081826552,Skudai,Johor,81300,0
-2389.4607745198678,Tasek Gelugor,Penang,13300,0
+2389.460774519868,Tasek Gelugor,Penang,13300,0
 833.8494543241502,Ipoh,Perak,31400,0
 1626.180142209082,Kuantan,Pahang,25200,0
 590.6441138064156,Kuala Lumpur,Kuala Lumpur,50480,0
@@ -2122,12 +2122,12 @@ distance,city,state,zip,flood_risk
 0.0,Klang,Selangor,41200,1
 1618.9113021167427,Johor Bahru,Johor,81100,0
 406.7291900937384,Ampang,Selangor,68000,1
-2603.1419035426397,Johor Bahru,Johor,81100,0
+2603.14190354264,Johor Bahru,Johor,81100,0
 580.9432639140765,Kuala Lumpur,Kuala Lumpur,55100,0
 1274.5081042893185,Petaling Jaya,Selangor,46050,0
 1599.6033742970726,Johor Bahru,Johor,81100,0
 73.87169112232736,Jitra,Kedah,6000,1
-2776.4273208316117,Petaling Jaya,Selangor,47810,0
+2776.427320831612,Petaling Jaya,Selangor,47810,0
 2839.333308404411,Petaling Jaya,Selangor,47810,0
 1346.2423721971743,Ipoh,Perak,30100,0
 1371.103593424558,Petaling Jaya,Selangor,46300,0
@@ -2179,7 +2179,7 @@ distance,city,state,zip,flood_risk
 1095.1814774880438,Kuala Lumpur,Kuala Lumpur,52000,0
 573.4899540955265,Kuala Lumpur,Kuala Lumpur,56100,0
 441.9915316802007,Ipoh,Perak,30010,1
-227.23148913749495,Petaling Jaya,Selangor,47400,1
+227.23148913749492,Petaling Jaya,Selangor,47400,1
 292.90998725091737,Johor Bahru,Johor,81100,1
 1420.1797410522695,Johor Bahru,Johor,81100,0
 1596.4099514572176,Ipoh,Perak,30300,0
@@ -2382,7 +2382,7 @@ distance,city,state,zip,flood_risk
 459.4404158035969,Petaling Jaya,Selangor,47800,1
 0.0,Kluang,Johor,86000,1
 2558.576472386406,Ipoh,Perak,31650,0
-3054.6606822862877,Subang Jaya,Selangor,47600,0
+3054.660682286288,Subang Jaya,Selangor,47600,0
 586.4279253381422,Petaling Jaya,Selangor,46200,0
 471.3421347044776,Johor Bahru,Johor,81200,1
 294.19873880157013,Kuching,Sarawak,93400,1
@@ -2566,9 +2566,9 @@ distance,city,state,zip,flood_risk
 868.6328451717046,Johor Bahru,Johor,81100,0
 1801.8711147413685,Petaling Jaya,Selangor,46300,0
 469.9327498230274,Kuala Lumpur,Kuala Lumpur,51200,1
-2603.1419035426397,Johor Bahru,Johor,81100,0
+2603.14190354264,Johor Bahru,Johor,81100,0
 449.4111685298536,Limbang,Sarawak,98700,1
-1870.3413348064732,Ipoh,Perak,30250,0
+1870.3413348064728,Ipoh,Perak,30250,0
 0.0,Kuantan,Pahang,25000,1
 1157.0081817342948,Ipoh,Perak,30300,0
 1596.4099514572176,Ipoh,Perak,30300,0
@@ -2602,9 +2602,9 @@ distance,city,state,zip,flood_risk
 864.8633991655428,Seremban,Negeri Sembilan,70100,0
 411.92697749302783,Kuching,Sarawak,93200,1
 500.2032218763907,Johor Bahru,Johor,80000,0
-3054.6606822862877,Petaling Jaya,Selangor,47301,0
+3054.660682286288,Petaling Jaya,Selangor,47301,0
 2506.2011701066426,Puchong,Selangor,47100,0
-2603.1419035426397,Johor Bahru,Johor,81100,0
+2603.14190354264,Johor Bahru,Johor,81100,0
 858.2456430592781,Kuala Lumpur,Kuala Lumpur,56100,0
 513.792178723312,Kuala Lumpur,Kuala Lumpur,51000,0
 2256.6676000460616,Johor Bahru,Johor,81300,0
@@ -2669,7 +2669,7 @@ distance,city,state,zip,flood_risk
 1273.8453186056142,Petaling Jaya,Selangor,46150,0
 1296.9237837234004,Johor Bahru,Johor,80400,0
 152.6247166507392,Kuching,Sarawak,93100,1
-2776.4273208316117,Petaling Jaya,Selangor,47810,0
+2776.427320831612,Petaling Jaya,Selangor,47810,0
 1326.6007337284707,Subang Jaya,Selangor,47610,0
 639.9451320714994,Ipoh,Perak,31400,0
 1858.318174126885,Kajang,Selangor,43000,0
@@ -2765,7 +2765,7 @@ distance,city,state,zip,flood_risk
 693.2269141417353,Seremban,Negeri Sembilan,70000,0
 181.9424066769301,Kuala Lumpur,Kuala Lumpur,59100,1
 366.8102816574833,Kuala Lumpur,Kuala Lumpur,50470,1
-217.51148730306411,Kuala Lumpur,Kuala Lumpur,50400,1
+217.5114873030641,Kuala Lumpur,Kuala Lumpur,50400,1
 361.3821772802045,Petaling Jaya,Selangor,47400,1
 656.8220045181135,Klang,Selangor,41000,0
 489.2303609213265,Kuala Lumpur,Kuala Lumpur,51200,1
@@ -2919,7 +2919,7 @@ distance,city,state,zip,flood_risk
 775.2805332131976,Puchong,Selangor,47100,0
 773.4567679986224,Johor Bahru,Johor,81200,0
 451.1807601508073,Miri,Sarawak,98000,1
-27.000016508484556,Kajang,Selangor,43000,1
+27.00001650848456,Kajang,Selangor,43000,1
 1707.0029640799198,Petaling Jaya,Selangor,46000,0
 1796.5139213847458,Johor Bahru,Johor,81200,0
 744.4382277640826,Kuala Lumpur,Kuala Lumpur,55000,0
@@ -2979,7 +2979,7 @@ distance,city,state,zip,flood_risk
 570.1949148567668,Johor Bahru,Johor,81200,0
 2419.9734615424245,Johor Bahru,Johor,81100,0
 2414.958039458644,Kota Bharu,Kelantan,15000,0
-196.00902585426036,Kuala Lumpur,Kuala Lumpur,51200,1
+196.0090258542604,Kuala Lumpur,Kuala Lumpur,51200,1
 643.4585964295866,Kuala Lumpur,Kuala Lumpur,50450,0
 326.9263158156846,Johor Bahru,Johor,80250,1
 98.61528815791574,Kajang,Selangor,43000,1
@@ -3060,7 +3060,7 @@ distance,city,state,zip,flood_risk
 1588.356778871688,Johor Bahru,Johor,81300,0
 617.2593087556712,Johor Bahru,Johor,81100,0
 1918.79882339422,Johor Bahru,Johor,81100,0
-3054.6606822862877,Subang Jaya,Selangor,47600,0
+3054.660682286288,Subang Jaya,Selangor,47600,0
 612.8824073664229,Kuala Lumpur,Kuala Lumpur,51200,0
 611.5219663637872,Seremban,Negeri Sembilan,70000,0
 380.5204537907603,Kuala Lumpur,Kuala Lumpur,55100,1
@@ -3086,7 +3086,7 @@ distance,city,state,zip,flood_risk
 1455.0564092109398,Petaling Jaya,Selangor,47820,0
 1090.092056348359,Petaling Jaya,Selangor,47301,0
 520.1424264210393,Kuala Lumpur,Kuala Lumpur,50470,0
-227.23148913749495,Petaling Jaya,Selangor,47400,1
+227.23148913749492,Petaling Jaya,Selangor,47400,1
 764.6763072828312,Kuala Lumpur,Kuala Lumpur,55100,0
 898.0101917746686,Shah Alam,Selangor,40100,0
 134.516720505778,Kuala Lumpur,Kuala Lumpur,56100,1
@@ -3322,7 +3322,7 @@ distance,city,state,zip,flood_risk
 1100.6859536234722,Kuala Lumpur,Kuala Lumpur,53300,0
 245.7478057775737,Kuala Lumpur,Kuala Lumpur,50100,1
 120.28652523726572,Petaling Jaya,Selangor,46200,1
-197.02381751701375,Kuching,Sarawak,93350,1
+197.02381751701373,Kuching,Sarawak,93350,1
 923.4426254589732,Johor Bahru,Johor,80300,0
 1193.9806139729933,Klang,Selangor,42000,0
 277.9648937035569,Kuala Lumpur,Kuala Lumpur,50400,1
@@ -3471,7 +3471,7 @@ distance,city,state,zip,flood_risk
 2194.441989674763,Ipoh,Perak,31650,0
 1191.1344124440416,Kulai,Johor,81000,0
 960.0676317998729,Klang,Selangor,42450,0
-2776.4273208316117,Petaling Jaya,Selangor,47810,0
+2776.427320831612,Petaling Jaya,Selangor,47810,0
 2202.8091226605243,Petaling Jaya,Selangor,46100,0
 597.9353704769909,Kuala Lumpur,Kuala Lumpur,51200,0
 407.3490566657117,Kuala Lumpur,Kuala Lumpur,50050,1
@@ -3509,7 +3509,7 @@ distance,city,state,zip,flood_risk
 241.5271515398784,Kuala Lumpur,Kuala Lumpur,51100,1
 449.4111685298536,Limbang,Sarawak,98700,1
 1634.2738081843363,Kuala Lumpur,Kuala Lumpur,57100,0
-196.00902585426036,Kuala Lumpur,Kuala Lumpur,51200,1
+196.0090258542604,Kuala Lumpur,Kuala Lumpur,51200,1
 1804.206110533774,Johor Bahru,Johor,81200,0
 561.7617509592936,Kuala Lumpur,Kuala Lumpur,52100,0
 2386.8890536027843,Johor Bahru,Johor,81100,0
@@ -3561,7 +3561,7 @@ distance,city,state,zip,flood_risk
 1806.261806295322,Kuala Lumpur,Kuala Lumpur,50480,0
 1704.968771253764,Ipoh,Perak,30000,0
 66.44574087511575,Teluk Intan,Perak,36000,1
-196.00902585426036,Kuala Lumpur,Kuala Lumpur,51200,1
+196.0090258542604,Kuala Lumpur,Kuala Lumpur,51200,1
 822.343390305979,Shah Alam,Selangor,40100,0
 1472.5393081696782,Kuala Lumpur,Kuala Lumpur,56000,0
 93.52453384451417,Cheras,Selangor,43200,1
@@ -3966,7 +3966,7 @@ distance,city,state,zip,flood_risk
 303.28123896051784,Kota Kinabalu,Sabah,88450,1
 1101.255010050078,Ipoh,Perak,30450,0
 18.1963589598036,Kuching,Sarawak,93450,1
-2032.8173053790615,Kuala Lumpur,Kuala Lumpur,56000,0
+2032.8173053790613,Kuala Lumpur,Kuala Lumpur,56000,0
 575.3737094320943,Seremban,Negeri Sembilan,70000,0
 1625.5933115311718,Johor Bahru,Johor,81200,0
 198.0764685437857,Kuala Lumpur,Kuala Lumpur,50100,1
