@@ -1,14 +1,17 @@
 # Flood Risk Regression Model
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://floodriskmodel-wdvqe2xfvx6rrusmkrprrr.streamlit.app/)
 
 ### 0. Model Used (Proposed)
 > Landing page markdown not working, see repository markdown page!
 
 1. Ordinary Least Square (OLS)
-    - $$ Y = \beta_0 + \beta_1X + \epsilon $$
+    ```latex
+    Y = b_0 + b1X + e
+    ``````
 2. Explanation For Variables
-    - $Y$ is the flood risk, it can be in the form of risk score or a binary outcome if using logistic regression
-    - $ X $ is the distance from historical flood location
-    - $ \beta_* $ can be computed and estimated. Generally:
+    - Y is the flood risk, it can be in the form of risk score or a binary outcome if using logistic regression
+    - X is the distance from historical flood location
+    - b_* can be computed and estimated. Generally:
         - The slope should be negative as greater distance (from historical location) would reduce the flood risks
         - One unit change in distance will correspond to the change in flood risk based on the magnitude of slope
 3. Some alternative to the linear regression/logistic regression approach:
