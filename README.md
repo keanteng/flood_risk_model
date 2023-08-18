@@ -31,4 +31,4 @@ To create a regression model for flood risk, we require both predictor, $x$ and 
 
 > For further documentation, see 
 
-Internship © 2023
+Internship Project © 2023
