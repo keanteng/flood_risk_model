@@ -1,9 +1,10 @@
 # Flood Risk Regression Model
+
+![Static Badge](https://img.shields.io/badge/license-MIT-blue)
+![Static Badge](https://img.shields.io/badge/python-3.11-blue)
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://floodriskmodel-wdvqe2xfvx6rrusmkrprrr.streamlit.app/)
 
 ### 0. Model Used (Proposed)
-> Landing page markdown not working, see repository markdown page!
-
 1. Ordinary Least Square (OLS)
     ```latex
     Y = b_0 + b_1X + e
@@ -11,12 +12,12 @@
 2. Explanation For Variables
     - `Y` is the flood risk, it can be in the form of risk score or a binary outcome if using logistic regression
     - `X` is the distance from historical flood location
-    - `b_*` can be computed and estimated. Generally:
+    - `\beta_*` can be computed and estimated. Generally:
         - The slope should be negative as greater distance (from historical location) would reduce the flood risks
         - One unit change in distance will correspond to the change in flood risk based on the magnitude of slope
 3. Some alternative to the linear regression/logistic regression approach:
-- [XGBoost](https://xgboost.readthedocs.io/en/stable/)
-- [Decision Tree](https://scikit-learn.org/stable/modules/tree.html)
+    - [XGBoost](https://xgboost.readthedocs.io/en/stable/)
+    - [Decision Tree](https://scikit-learn.org/stable/modules/tree.html)
 
 
 ### 1. Data Preparation
@@ -30,8 +31,7 @@ To create a regression model for flood risk, we require both predictor, `x` and 
     - A radius of about `500m` will be drawn around each historical flood points and check for intersection, for intersected point, a value of 1 will be assigned, otherwise, 0 will be assigned. 
 
 ### 2. Objective
+- To predict flood risk in any location in Malaysia
 - To determine the best model describing flood risk in Malaysia
-
-> For further documentation, see [Streamlit Web App](https://floodriskmodel-wdvqe2xfvx6rrusmkrprrr.streamlit.app/)
 
 Internship Project © 2023
