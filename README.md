@@ -1,4 +1,4 @@
-# Flood Risk Regression Model
+# Flood Risk Regression Model <!-- omit in toc -->
 
 ![Static Badge](https://img.shields.io/badge/license-MIT-blue)
 ![Static Badge](https://img.shields.io/badge/python-3.11-blue)
@@ -7,6 +7,13 @@
 A univariate flood risk model using logistic regression trained with about 4500 labelled random geo-coordinates in Malaysia. 
 
 A multivariate example is given [here](https://github.com/keanteng/flood_risk_model_2).
+
+**Table of Contents:**
+
+- [Objective](#objective)
+- [Methodology](#methodology)
+  - [Data Preparation](#data-preparation)
+- [Limitation](#limitation)
 
 ## Objective
 - To predict flood risk in any location in Malaysia
